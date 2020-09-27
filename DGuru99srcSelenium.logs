@@ -1,0 +1,32 @@
+19:09:06,000  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----The client search by "crowdar"-----
+19:09:13,223 ERROR com.crowdar.driver.DriverFactory<strong>{1}</strong>:98 - org.openqa.selenium.WebDriverException: unknown error: cannot find Chrome binary
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mavis', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.104-microsoft-standard', java.version: '11.0.8'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: #0 0x558b1d4eca39 <unknown>
+
+19:09:13,233  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:35 - ------ Ending -----The client search by "crowdar"-----
+19:09:13,268  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----The client search by "automation"-----
+19:09:15,025 ERROR com.crowdar.driver.DriverFactory<strong>{1}</strong>:98 - org.openqa.selenium.WebDriverException: unknown error: cannot find Chrome binary
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mavis', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.104-microsoft-standard', java.version: '11.0.8'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: #0 0x556c835ffa39 <unknown>
+
+19:09:15,027  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:35 - ------ Ending -----The client search by "automation"-----
+19:09:15,028  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----The client search by "docker"-----
+19:09:16,777 ERROR com.crowdar.driver.DriverFactory<strong>{1}</strong>:98 - org.openqa.selenium.WebDriverException: unknown error: cannot find Chrome binary
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mavis', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.104-microsoft-standard', java.version: '11.0.8'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: #0 0x56261c27aa39 <unknown>
+
+19:09:16,779  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:35 - ------ Ending -----The client search by "docker"-----
+19:09:16,781  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----The client search by "vagrant"-----
+19:09:18,566 ERROR com.crowdar.driver.DriverFactory<strong>{1}</strong>:98 - org.openqa.selenium.WebDriverException: unknown error: cannot find Chrome binary
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mavis', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.104-microsoft-standard', java.version: '11.0.8'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: #0 0x556b6de5ca39 <unknown>
+
+19:09:18,567  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:35 - ------ Ending -----The client search by "vagrant"-----
